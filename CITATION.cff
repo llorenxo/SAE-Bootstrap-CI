@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Bootstrap Confidence Intervals for Unit-Level Small Area Estimation"
+
+authors:
+  - family-names: "Tizianel"
+    given-names: "Eleonora"
+    affiliation: "Department of Statistical Sciences, University of Bologna"
+
+  - family-names: "Mori"
+    given-names: "Lorenzo"
+    affiliation: "Department of Statistical Sciences, University of Bologna"
+
+  - family-names: "Ferrante"
+    given-names: "Maria Rosaria"
+    affiliation: "Department of Statistical Sciences, University of Bologna"
+
+version: "1.0.0"
+date-released: 2026-08-15
+
+repository-code: "https://github.com/llorenxo/SAE-Bootstrap-CI"
+url: "https://sae-boot-conf-int.shinyapps.io/shinyapp/"
+
+license: MIT
+
+keywords:
+  - small area estimation
+  - bootstrap
+  - confidence intervals
+  - empirical best prediction
+  - Shiny
